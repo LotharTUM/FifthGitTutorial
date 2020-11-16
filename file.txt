@@ -1,3 +1,6 @@
 Another time Updated again the Updated file.txt
+<<<<<<< HEAD
 
 added smth. to return to earlier commit
+=======
+>>>>>>> 64922b1b53ae30fc8c20fbd729d29a882561236b
