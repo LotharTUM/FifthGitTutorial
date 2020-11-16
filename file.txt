@@ -1,6 +1,3 @@
 Another time Updated again the Updated file.txt
 <<<<<<< HEAD
 
-added to return to commit before
-
-added to return to commit before
